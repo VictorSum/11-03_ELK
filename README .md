@@ -1,4 +1,4 @@
-# Домашнее задание к занятию 11.3 "`Системы хранения и передачи данных: ELK`" - `Емельянов Михаил`
+# Домашнее задание к занятию 11.3 "`Системы хранения и передачи данных: ELK`" - `Сумской Виктор`
 
 ### Инструкция по выполнению домашнего задания
 
@@ -38,7 +38,7 @@
 
 #### ОТВЕТ:
 
-![Скриншот-1](https://github.com/Monooks/11-03_NetoHW/blob/main/img/11.03_1.png)
+![Скриншот-1](https://github.com/VictorSum/11-03_ELK/blob/main/img/11.03_1.png)
 ---
 
 ### Задание 2. Kibana
@@ -49,7 +49,7 @@
 
 #### ОТВЕТ:
 
-![Скриншот-2](https://github.com/Monooks/11-03_NetoHW/blob/main/img/11.03_2.png)
+![Скриншот-2](https://github.com/VictorSum/11-03_ELK/blob/main/img/11.03_2.png)
 ---
 
 ### Задание 3. Logstash
@@ -60,7 +60,7 @@
 
 #### ОТВЕТ:
 
-![Скриншот-3](https://github.com/Monooks/11-03_NetoHW/blob/main/img/11.03_3.png)
+![Скриншот-3](https://github.com/VictorSum/11-03_ELK/blob/main/img/11.03_3.png)
 ---
 
 ### Задание 4. Filebeat. 
@@ -71,7 +71,7 @@
 
 #### ОТВЕТ:
 
-![Скриншот-4](https://github.com/Monooks/11-03_NetoHW/blob/main/img/11.03_4.png)
+![Скриншот-4](https://github.com/VictorSum/11-03_ELK/blob/main/img/11.03_4.png)
 ---
 
 ## Дополнительные задания (со звёздочкой*)
@@ -86,5 +86,5 @@
 
 #### ОТВЕТ:
 
-![Скриншот-5](https://github.com/Monooks/11-03_NetoHW/blob/main/img/11.03_5.png)
+![Скриншот-5](https://github.com/VictorSum/11-03_ELK/blob/main/img/11.03_5.png)
 ---
